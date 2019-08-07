@@ -1,0 +1,10 @@
+{
+    "breakfast":
+    [
+        {"food" : "pancake", "price": 11.99, "calories": 950},
+        {"food" : "eggs", "price": 5.99, "calories": 300},
+        {"food" : "waffles", "price": 12.99, "calories": 1050}
+
+    ]
+
+}
